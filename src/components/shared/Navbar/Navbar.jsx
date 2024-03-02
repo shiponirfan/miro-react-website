@@ -10,7 +10,7 @@ const Navbar = () => {
     setMobileMenu(!mobileMenu);
   };
   return (
-    <div className="px-4 xl:px-8 py-5 flex items-center justify-between relative">
+    <div className="px-4 xl:px-8 py-5 flex items-center justify-between relative nav-border">
       <div className="flex items-center gap-4 xl:gap-[26px]">
         <Link to="/">
           <img src={logo} alt="Miro Logo" />

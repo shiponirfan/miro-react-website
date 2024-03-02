@@ -8,3 +8,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.nav-border{
+    border-bottom: 2px solid #f0f0f0;
+}

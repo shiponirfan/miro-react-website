@@ -12,9 +12,10 @@ export default {
       colors: {
         "primary-bg": "#4262FF",
         "secondary-bg": "#02033B",
+        "third-bg": "#FFC247",
         "primary-text": "#050038",
-        "secondary-text": "#FFC247"
-      }
+        "secondary-text": "#4b4770"
+      },
     },
   },
   plugins: [],
